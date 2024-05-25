@@ -2,7 +2,7 @@
 
 ## Overview
 
-`pp Counter` is an OBS overlay designed for osu! players to display their performance points (pp) in real-time. This project is authored by [Inla_](https://github.com/Inlayo) and is compatible with the `tosu` framework. The overlay has a compact resolution of 120x60.
+`pp Counter` is an OBS overlay designed for osu! players to display their performance points (pp) in real-time. This project is authored by [Inla_](https://github.com/Inlayo) and is compatible with both `gosumemory` and `tosu` frameworks. The overlay has a compact resolution of 120x60.
 
 ## Use Case
 
@@ -12,7 +12,7 @@
 
 - **Name**: pp Counter
 - **Author**: Inla_
-- **Compatible With**: tosu
+- **Compatible With**: gosumemory, tosu
 - **Resolution**: 120x60
 - **Author Links**: [GitHub Repository](https://github.com/Inlayo/pp-counter)
 
